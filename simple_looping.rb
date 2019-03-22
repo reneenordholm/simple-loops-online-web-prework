@@ -2,7 +2,7 @@
 
 def loop_iterator(number_of_times=1)
   loop do
-  puts "I have found the Time Machine!"
+  puts "Welcome to Flatiron School's Web Development Course!"
 end
 end
   # Code your solution here using the "loop" keyword to puts out the below phrase
