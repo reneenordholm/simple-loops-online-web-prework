@@ -1,12 +1,8 @@
 # REMEMBER: print your output to the terminal using 'puts'
 
-def loop_iterator(number_of_times=7)
+def loop_iterator
   loop do
-  number_of_times += 1
-  puts "Welcome to Flatiron School's Web Development Course!"
-  if number_of_times >= 7
-    break
-  end
+  puts "I have found the Time Machine!"
 end
 end
   # Code your solution here using the "loop" keyword to puts out the below phrase
