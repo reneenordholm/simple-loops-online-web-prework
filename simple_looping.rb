@@ -1,7 +1,7 @@
 # REMEMBER: print your output to the terminal using 'puts'
 
-def loop_iterator
-  7.times do
+def loop_iterator(number_of_times=1)
+  loop do
   puts "I have found the Time Machine!"
 end
 end
