@@ -1,6 +1,6 @@
 # REMEMBER: print your output to the terminal using 'puts'
 
-def loop_iterator(number_of_times=0)
+def loop_iterator(number_of_times=7)
   loop do
   number_of_times += 1
   puts "Welcome to Flatiron School's Web Development Course!"
